@@ -1,0 +1,1 @@
+# CampusBite FastAPI application package.

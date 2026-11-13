@@ -1,0 +1,14 @@
+.env
+backend/.env
+frontend/.env
+frontend/node_modules
+frontend/dist
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+pgdata/
+.DS_Store
+.idea/
+.vscode/
+*.log
